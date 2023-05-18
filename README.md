@@ -10,4 +10,4 @@
 		<li>Após revisar e definir as configurações do cluster, clique em "Criar" para iniciar a criação do cluster Kubernetes. O GCP começará a provisionar os recursos necessários e configurar o ambiente do cluster. Isso pode levar alguns minutos para ser concluído.</li>
 		<li>Uma vez que o cluster Kubernetes tenha sido criado com sucesso, você poderá implantar o microserviço de exemplo. Para isso, você precisará ter o arquivo de manifesto YAML do microserviço. Esse arquivo contém a definição do serviço, dos pods e de outros recursos necessários para executar o microserviço.</li>
 		<li>No Console do GCP, abra o Cloud Shell clicando no ícone do terminal no canto superior direito da página. O Cloud Shell é um ambiente de linha de comando baseado na web que possui as ferramentas e as APIs necessárias para interagir com o GCP.</li>
-		
+		1<li>No Cloud Shell, navegue até o diretório onde está localizado o arquivo de manifesto YAML do microserviço. Isso pode ser feito usando comandos como cd para navegar entre diretórios.</li>
