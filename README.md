@@ -12,6 +12,7 @@
 		<li>No Console do GCP, abra o Cloud Shell clicando no ícone do terminal no canto superior direito da página. O Cloud Shell é um ambiente de linha de comando baseado na web que possui as ferramentas e as APIs necessárias para interagir com o GCP.</li>
 		<li>No Cloud Shell, navegue até o diretório onde está localizado o arquivo de manifesto YAML do microserviço. Isso pode ser feito usando comandos como cd para navegar entre diretórios.</li>
 		<li>Use o comando <code>kubectl</code> (a ferramenta de linha de comando do Kubernetes) para implantar o microserviço no cluster Kubernetes. Por exemplo, execute o seguinte comando:
+<br><br>
 
 			kubectl apply -f arquivo_manifesto.yaml
 
