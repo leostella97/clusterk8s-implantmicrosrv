@@ -15,5 +15,4 @@
 
 			kubectl apply -f arquivo_manifesto.yaml
 
-		<p>Esse comando instrui o Kubernetes a criar os recursos especificados no arquivo de manifesto YAML. Isso inclui a criação dos pods, dos serviços e de outros objetos relacionados.</p>
-		
+<p>Esse comando instrui o Kubernetes a criar os recursos especificados no arquivo de manifesto YAML. Isso inclui a criação dos pods, dos serviços e de outros objetos relacionados.</p>
